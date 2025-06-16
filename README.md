@@ -9,7 +9,11 @@ bash
 Copy
 Edit
 docker run --rm -it -v myvol:/data busybox sh
+
+
 ثم داخل الـ container ده:
+
+
 
 sh
 Copy
